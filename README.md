@@ -1,6 +1,6 @@
 # aiia_4g5g
 
-比赛链接：http://36.133.53.121:1080/index/content_page?pageType=4#introduce
+比赛链接：http://36.133.53.121:1080/index/content_page?pageType=11#introduce
 
 复现步骤：
 
