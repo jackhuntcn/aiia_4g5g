@@ -38,6 +38,7 @@
 - series user_hour 变化量统计特征
 - series user_weekday 变化量编码 (少量掉分)
 - series user_hour sliding_windows 目标编码 (掉分)
+- 训练某个指标时使用其余另外五个指标的目标编码 (掉分)
 - ......
 
 ## 后处理
