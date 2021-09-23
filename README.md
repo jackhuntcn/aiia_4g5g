@@ -54,3 +54,10 @@
 - lightgbm 使用 CPU 速度太慢, 不好迭代
 - 使用五六两个月份跑树模型, 掉分明显
 - ......
+
+## 参考资料
+
+1. https://www.kaggle.com/saurav9786/time-series-tutorial
+2. https://facebook.github.io/prophet/docs/multiplicative_seasonality.html
+3. https://zhuanlan.zhihu.com/p/288533310
+
