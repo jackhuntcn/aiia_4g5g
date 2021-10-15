@@ -2,6 +2,7 @@
 
 比赛链接：http://36.133.53.121:1080/index/content_page?pageType=11#introduce
 
+该题数据量比较大，最终榜上第 10, 方案比较简单, 没有用 NN
 
 ## 依赖软件
 
